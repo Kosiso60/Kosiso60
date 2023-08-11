@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kosiso</h1>
-<h3 align="center">A software engineering student at ALX holberton and Altschool Africa</h3>
+<h3 align="center">A software engineering graduate at ALX holberton and Altschool Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosiso60&label=Profile%20views&color=0e75b6&style=flat" alt="kosiso60" /> </p>
 
